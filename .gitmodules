@@ -4,3 +4,6 @@
 [submodule "ds006185"]
 	path = derivatives/fMRIPrep-24.1.1
 	url = https://github.com/OpenNeuroDatasets/ds006185.git
+[submodule "ds006143"]
+	path = derivatives/MRIQC-25.0.0rc0
+	url = https://github.com/OpenNeuroDatasets/ds006143.git
