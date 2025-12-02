@@ -10,3 +10,6 @@
 [submodule "ds006182"]
 	path = derivatives/qsiprep-1.0.1.dev0+gee9aa2e.d20250115
 	url = https://github.com/OpenNeuroDatasets/ds006182.git
+[submodule "ds006188"]
+	path = derivatives/ASLPrep-0.7.5
+	url = https://github.com/OpenNeuroDatasets/ds006188.git
