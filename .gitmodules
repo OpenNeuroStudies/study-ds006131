@@ -7,3 +7,6 @@
 [submodule "ds006143"]
 	path = derivatives/MRIQC-25.0.0rc0
 	url = https://github.com/OpenNeuroDatasets/ds006143.git
+[submodule "ds006182"]
+	path = derivatives/qsiprep-1.0.1.dev0+gee9aa2e.d20250115
+	url = https://github.com/OpenNeuroDatasets/ds006182.git
