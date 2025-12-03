@@ -13,3 +13,6 @@
 [submodule "ds006188"]
 	path = derivatives/ASLPrep-0.7.5
 	url = https://github.com/OpenNeuroDatasets/ds006188.git
+[submodule "ds006131"]
+	path = sourcedata/ds006131
+	url = https://github.com/OpenNeuroDatasets/ds006131.git
