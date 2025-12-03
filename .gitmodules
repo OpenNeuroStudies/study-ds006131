@@ -1,5 +1,5 @@
 [submodule "ds006131-raw"]
-	path = sourcedata/raw
+	path = sourcedata/ds006131
 	url = https://github.com/OpenNeuroDatasets/ds006131.git
 [submodule "ds006185"]
 	path = derivatives/fMRIPrep-24.1.1
