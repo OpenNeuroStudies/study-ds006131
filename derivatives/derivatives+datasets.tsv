@@ -1,0 +1,5 @@
+source_id	derivative_id	subjects_num	sessions_num	output_num	output_size	nifti_num	nifti_size	html_num
+ds006131	ASLPrep-0.7.5	11	11	2203	2242623973	502	2054473299	22
+ds006131	MRIQC-25.0.0rc0	12	12	401	0	0	0	0
+ds006131	fMRIPrep-24.1.1	12	24	5716	632437716834	2294	622715451912	0
+ds006131	qsiprep-1.0.1.dev0+gee9aa2e.d20250115	11	11	444	7237381435	88	4522214841	55
