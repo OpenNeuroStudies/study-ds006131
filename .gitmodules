@@ -16,3 +16,4 @@
 [submodule "ds006131"]
 	path = sourcedata/ds006131
 	url = https://github.com/OpenNeuroDatasets/ds006131.git
+	branch = main
